@@ -3,5 +3,6 @@
   }
 .opacity {
     opacity: 1;
-    transition: opacity 2s easy;
+    transition-duration: 0.7s;
+    transition-timing-function: ease-in;
   }
